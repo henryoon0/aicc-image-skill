@@ -63,7 +63,7 @@ LOGIN=$(codex login status 2>&1 || true)
 if [[ "$LOGIN" == *"ChatGPT"* ]]; then
   note "이미 로그인돼 있음 ✔"
 else
-  if [[ -e /dev/tty ]]; then
+  if ( : </dev/tty ) 2>/dev/null; then
     note "브라우저가 열리면 ChatGPT 계정으로 로그인해 주세요."
     codex login </dev/tty >/dev/tty 2>&1 || {
       note "로그인이 완료되지 않았어요. 나중에 터미널에서 'codex login' 을 실행하면 됩니다."; }
