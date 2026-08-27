@@ -1,0 +1,144 @@
+Please create a separate **"Rubber Stamp Travel Field Notes Poster"** for each photo I upload, outputting each photo individually without collage or multi-image combinations.
+
+Overall, use a **4:3 landscape composition**, dividing the frame into left and right regions, but without drawing an obvious dividing line.
+
+## Left Side — Original Photo
+
+The left side takes up about **58% of the frame**, faithfully preserving the original photo.
+
+Accurately maintain the main subject identity, terrain, architecture, plants, people, spatial relationships, natural lighting and shadows, authentic textures, and the original color atmosphere.
+
+Apply only restrained art-publication-level photo color grading and extremely subtle, fine-grained film noise.
+
+For layout adaptation, natural cropping is allowed, but **do not stretch, distort, shift, replace, or redraw the main subject.**
+
+## Right Side — Field Notes Page
+
+The right side takes up about **42% of the frame**, using a warm off-white aged paper as the background.
+
+The paper should feature subtle fibers, natural grain, light usage marks, and a matte texture. Preserve generous areas of unprinted paper so that whitespace remains an essential part of the composition.
+
+The right-side content must follow a clear **vertical top-to-bottom hierarchy**:
+
+1. **Rubber stamp illustration at the top**
+2. **Small field-record information associated with the stamp**
+3. **Date and Korean diary entry underneath**
+
+The stamp must **not** sit in the lower-middle of the page. Instead, position it prominently but quietly in the **upper portion of the right-side paper area**, leaving comfortable margins around it.
+
+The diary should occupy the space **directly below the stamp**, creating the feeling of a real travel notebook or field journal where a traveler stamped an image first and then wrote a personal diary underneath it.
+
+Do not overlap the stamp, field-record text, date, or diary.
+
+## Rubber Stamp Illustration
+
+Analyze the original photo and extract the most location-distinctive subject outlines, architectural structures, terrain contours, plant forms, roads, shorelines, or other key visual relationships, compressing them into a **small multi-color rubber stamp image**.
+
+Do not replicate every single element from the photo item by item.
+
+Retain only the minimal information necessary to instantly recognize the original location, subject, and scene relationships.
+
+Remove crowds, vehicles, dense windows, repetitive buildings, fragmented vegetation, decorative elements, and irrelevant backgrounds.
+
+The rubber stamp should occupy approximately **25%–35% of the height of the right-side paper region** and remain clearly separated from the diary below.
+
+It must not be enlarged into a standard illustration, full landscape painting, or brand logo.
+
+Determine the stamp's organization based on the original photo's composition:
+
+- **Iconic architecture:** Retain the most distinctive outer contours, roofs, domes, arches, towers, or main structures.
+- **Mountain settlements:** Compress buildings into a few terraced color blocks aligned along the terrain.
+- **Coastal scenery:** Retain mountain contours, settlement layers, shorelines, and sparse intermittent water ripples.
+- **City panoramas:** Retain the main skyline, one iconic building, and one or two layers of distant mountains.
+- **Natural landscapes:** Retain primary mountain forms, trees, shorelines, or road orientations.
+- **Foreground occlusions:** If narratively important in the original photo, retain them as foreground stamp outlines.
+
+Extract **2–4 spot inks** from the original photo.
+
+Prioritize desaturated colors such as carbon black, deep green, brick red, ochre yellow, slate blue, or taupe brown, but do not force a fixed palette.
+
+Preserve the most distinctive color character from the original photo, allowing only a small area of color for visual emphasis.
+
+Render each color as a separately hand-stamped effect:
+
+Authentic rubber stamp carving texture, hand-engraved marks, uneven line widths, contour notches, fractured edges, dry ink shortages, paper show-through, granular ink, uneven pressure, partial ghosting, and approximately **1–2 mm of subtle misregistration**.
+
+Allow natural misalignment between color layers. Edges must not be digitally smoothed.
+
+The print should resemble a **real carved rubber stamp physically pressed onto aged paper**, not a filtered photo, smooth vector illustration, or line-art logo.
+
+## Field Record Text
+
+Generate small field-record text based on the photo's location, theme, and visual imagery:
+
+**Location English name**
+**No. Number**
+**Three short English keywords**
+**Gregorian calendar year**
+
+Place this information close to the stamp, preferably immediately below it or subtly adjacent to it.
+
+Use a **small, restrained, slightly mechanically imperfect typewriter font**.
+
+The typography should evoke a traveler's archival field record, not an advertisement headline.
+
+Ensure all English text is spelled accurately. Do not add irrelevant slogans, brands, or decorative copy.
+
+## Korean Diary
+
+Below the rubber stamp and field-record information, create a clearly separated **personal diary section**.
+
+The diary must be written in **Korean**, using **KoPub Batang (KoPub바탕)** as the primary typeface.
+
+The Korean diary typography should feel like a beautifully typeset literary travel journal: quiet, warm, understated, and highly readable.
+
+Use a **small-to-medium text size**, comfortable line spacing, restrained paragraph width, and natural Korean typesetting.
+
+Do not use a handwritten Korean font, brush font, sans-serif font, typewriter font, or decorative display font for the diary.
+
+**The diary body must specifically use KoPub Batang / KoPub바탕.**
+
+The date may be slightly smaller than the diary body and should appear immediately above the diary entry.
+
+Keep the diary left-aligned with generous breathing room around the text.
+
+Do not center the diary text.
+
+Do not make the diary typography overly large or dominant. It should feel like intimate journal writing printed on fine paper.
+
+Use the following text exactly:
+
+**Date**
+"""{{DATE}}"""
+
+**Diary**
+"""{{DIARY}}"""
+
+Do not translate, summarize, rewrite, shorten, romanize, or replace the Korean diary text.
+
+Ensure that **all Korean characters are rendered correctly and legibly without broken glyphs, pseudo-Korean characters, or substituted Chinese/Japanese characters.**
+
+## Overall Visual Direction
+
+The overall vibe should resemble field notes kept by an architect, travel writer, or natural observer: **quiet, restrained, tactilely real, regionally specific, and collectible**.
+
+The original photograph functions as the on-site visual record.
+
+The rubber stamp captures the most recognizable fragments of memory.
+
+The Korean diary underneath adds the personal memory and emotional context of that day.
+
+The right side should therefore read naturally from top to bottom as:
+
+**STAMP IMAGE → FIELD RECORD → DATE → KOREAN DIARY**
+
+Maintain a refined editorial hierarchy and generous negative space. The page should feel like an authentic page from a carefully designed travel field notebook rather than a commercial travel poster.
+
+## Avoid
+
+Avoid obvious central dividing lines, circular seals, Chinese red stamps, postage stamp perforations, wax seals, sticker collages, tourist souvenir templates, smooth vector logos, generic city icons, full replication of all architecture, dense detailing, childlike craftiness, cartoon style, 3D rendering, plastic textures, glossy digital gradients, oversaturation, excessive decorative text, decorative clutter, and redrawing or altering the left-side original photo.
+
+Also avoid placing the rubber stamp at the bottom of the right panel, placing the diary above the stamp, centering the Korean diary, using handwriting-style Korean fonts, replacing KoPub Batang with a sans-serif font, or allowing the stamp illustration to consume most of the right panel.
+
+**Priority layout rule:**
+The rubber stamp illustration must remain in the **upper portion of the right panel**, and the **KoPub Batang Korean diary must flow beneath it** with sufficient whitespace and clear editorial separation.
